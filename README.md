@@ -60,7 +60,7 @@ Start to hack
 
 A demo application (a bookstore) is pre-installed.
 
-* Run `app/console server:start` and open `http://localhost:8000` in any
+* Run `bin/console server:start` and open `http://localhost:8000` in any
   HTTP client to access the API
 * Open `http://localhost:8000/doc` to read the HTML documentation an play
   with the sandbox
